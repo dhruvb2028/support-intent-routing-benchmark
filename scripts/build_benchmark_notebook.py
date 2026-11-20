@@ -33,7 +33,7 @@ def build():
 
 This notebook recomputes tables from saved final predictions, plots recorded measurements, displays 20 predetermined failure cases, and **actually refits the selected TF-IDF pipeline on the frozen training data**. It does not rerun MiniLM or Qwen inference, retune thresholds, or claim that this notebook freshly measured the recorded latency/resource figures. All code cells have saved outputs from execution.
 
-[Audited dataset]('''+DATASET+''') Â· [Repository]('''+REPO+''')
+[Audited dataset]('''+DATASET+''') | [Repository]('''+REPO+''')
 
 The task is request-only classification into 27 customer-support intents, with abstention on ambiguous or unsupported requests. Bitext's source is hybrid synthetic data; the additional challenge is AI-authored. Neither establishes performance on production customer traffic. This project and its independent review were implemented with AI-agent assistance; independent AI review is not human annotation.
 '''),md('''## Data and frozen protocol
@@ -88,7 +88,7 @@ for name in names:
         verify_close(rate,declared)
         slice_rows.append({'Model':pretty[name],'Slice':slice_name,'Deferred':deferred,'Total':len(subset),'Defer %':rate*100})
     ci=m['test']['macro_f1_ci95']
-    summary.append({'Model':pretty[name],'Device':m['device'],'Source test macro-F1 %':100*f1,'F1 95% CI':f"{100*ci['low']:.2f}â€“{100*ci['high']:.2f}",'Challenge supported accuracy %':100*forced,'Challenge accepted':f'{int(sa.sum())}/{len(supported)}','Accepted correct':f'{accepted_correct}/{int(sa.sum())}' if sa.any() else 'N/A (none accepted)','Warm median ms':m['latency']['median_ms'],'Warm p95 ms':m['latency']['p95_ms'],'Threshold':m['selected_config']['threshold']})
+    summary.append({'Model':pretty[name],'Device':m['device'],'Source test macro-F1 %':100*f1,'F1 95% CI':f"{100*ci['low']:.2f}-{100*ci['high']:.2f}",'Challenge supported accuracy %':100*forced,'Challenge accepted':f'{int(sa.sum())}/{len(supported)}','Accepted correct':f'{accepted_correct}/{int(sa.sum())}' if sa.any() else 'N/A (none accepted)','Warm median ms':m['latency']['median_ms'],'Warm p95 ms':m['latency']['p95_ms'],'Threshold':m['selected_config']['threshold']})
 summary=pd.DataFrame(summary)
 display(summary.round(3))
 print('All reconstructed point metrics agree with recorded final metrics.')
@@ -118,7 +118,7 @@ At threshold 0.89, TF-IDF accepted 30/180 supported requests and got 29 right, w
 coverage_rows=[]
 for n in names:
     m=models[n]['challenge_test'];s=m['supported'];ci=s['selective_accuracy_ci95']
-    coverage_rows.append({'Model':pretty[n],'Supported coverage %':s['coverage']*100,'Coverage 95% CI':f"{s['coverage_ci95']['low']*100:.1f}â€“{s['coverage_ci95']['high']*100:.1f}",'Accepted accuracy %':None if s['selective_accuracy'] is None else s['selective_accuracy']*100,'Accepted accuracy 95% CI':'N/A' if ci is None else f"{ci['low']*100:.1f}â€“{ci['high']*100:.1f}",'Ambiguous accepted':int(round(60*(1-m['ambiguous_defer_rate'])))})
+    coverage_rows.append({'Model':pretty[n],'Supported coverage %':s['coverage']*100,'Coverage 95% CI':f"{s['coverage_ci95']['low']*100:.1f}-{s['coverage_ci95']['high']*100:.1f}",'Accepted accuracy %':None if s['selective_accuracy'] is None else s['selective_accuracy']*100,'Accepted accuracy 95% CI':'N/A' if ci is None else f"{ci['low']*100:.1f}-{ci['high']*100:.1f}",'Ambiguous accepted':int(round(60*(1-m['ambiguous_defer_rate'])))})
 display(pd.DataFrame(coverage_rows).round(2))
 '''),md('''## Twenty recorded TF-IDF failures
 
