@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaggle-yc-support-routing"
+version = "0.1.0"
+description = "Reproducible support intent routing evaluation"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "pandas==2.3.3", "scikit-learn==1.7.2", "scipy==1.16.3", "joblib==1.5.2", "huggingface-hub==0.36.0", "transformers==4.57.1", "sentence-transformers==5.1.2", "accelerate==1.11.0", "safetensors==0.6.2", "torch==2.9.1", "rapidfuzz==3.14.3", "gradio==5.49.1"]
+
+[project.optional-dependencies]
+test = ["pytest==8.4.2"]
+notebook = ["matplotlib==3.10.7", "nbformat==5.10.4", "nbclient==0.10.2", "ipykernel==7.1.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

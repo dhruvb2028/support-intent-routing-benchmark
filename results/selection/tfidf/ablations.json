@@ -1,0 +1,9 @@
+{
+  "scope": "validation only; explanatory analyses; not additional model-selection candidates",
+  "fixed_C": 4.0,
+  "full_word_char_macro_f1": 0.9976706950265056,
+  "word_only_macro_f1": 0.9922340771661674,
+  "ten_percent_training_macro_f1": 0.9856028267398479,
+  "ten_percent_training_rows": 1668,
+  "training_subset_seed": 42
+}

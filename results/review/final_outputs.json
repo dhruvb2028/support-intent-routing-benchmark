@@ -1,0 +1,48 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "created_utc": "2026-11-20T20:53:07.747907+00:00",
+  "frozen_selection_sha256": "5dd505704228aff925c118927ff43358180c61cfe6e3d8e575b5de94ee406c0c",
+  "script_sha256": "bb6dd3a0474bca03644a8e760fb57ad941cc916e187de9352e8660a5fed4c720",
+  "models": {
+    "majority": {
+      "rows_checked": {
+        "test": 3570,
+        "challenge_test": 300
+      },
+      "metrics_reconstructed": true,
+      "artifact_hash_verified": true,
+      "latency_samples_checked": 100
+    },
+    "tfidf": {
+      "rows_checked": {
+        "test": 3570,
+        "challenge_test": 300
+      },
+      "metrics_reconstructed": true,
+      "artifact_hash_verified": true,
+      "latency_samples_checked": 100
+    },
+    "minilm": {
+      "rows_checked": {
+        "test": 3570,
+        "challenge_test": 300
+      },
+      "metrics_reconstructed": true,
+      "artifact_hash_verified": true,
+      "latency_samples_checked": 100
+    },
+    "qwen": {
+      "rows_checked": {
+        "test": 3570,
+        "challenge_test": 300
+      },
+      "metrics_reconstructed": true,
+      "artifact_hash_verified": true,
+      "latency_samples_checked": 100
+    }
+  },
+  "review_passed": true,
+  "allow_missing_model_artifacts": false,
+  "model_artifacts_verified_count": 4,
+  "scope": "Reconstructs stored metric values and timing summaries. Model hashes are verified only for artifacts present locally; per-model flags record this. Does not independently rerun GPU model inference or establish production validity."
+}

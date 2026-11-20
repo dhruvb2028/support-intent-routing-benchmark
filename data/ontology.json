@@ -1,0 +1,52 @@
+{
+  "labels": [
+    "cancel_order",
+    "change_order",
+    "change_shipping_address",
+    "check_cancellation_fee",
+    "check_invoice",
+    "check_payment_methods",
+    "check_refund_policy",
+    "complaint",
+    "contact_customer_service",
+    "contact_human_agent",
+    "create_account",
+    "delete_account",
+    "delivery_options",
+    "delivery_period",
+    "edit_account",
+    "get_invoice",
+    "get_refund",
+    "newsletter_subscription",
+    "payment_issue",
+    "place_order",
+    "recover_password",
+    "registration_problems",
+    "review",
+    "set_up_shipping_address",
+    "switch_account",
+    "track_order",
+    "track_refund"
+  ],
+  "rules": {
+    "route": "One clearly supported customer-support intent. Assign one ontology label.",
+    "clarify_or_abstain": "Multiple explicit intents or insufficient information to distinguish intents; label __abstain__.",
+    "abstain": "Outside this store-support ontology; label __abstain__. Product specifications and compatibility, manuals and maintenance, stock availability, warranty repairs, and loyalty points are unsupported by the 27-intent ontology even though they concern the same store."
+  },
+  "definitions": {
+    "contact_customer_service": "Ask for department contact details or general channels.",
+    "contact_human_agent": "Ask for a live person to join/take over current interaction.",
+    "check_invoice": "Inspect/understand/verify an existing invoice.",
+    "get_invoice": "Obtain/download/request an invoice copy.",
+    "delivery_period": "General expected time for a new purchase.",
+    "track_order": "Locate/status of an existing order.",
+    "set_up_shipping_address": "Add or set saved/default address for future purchases.",
+    "change_shipping_address": "Change destination on an existing order.",
+    "create_account": "How to create/register an account.",
+    "registration_problems": "A registration attempt is failing.",
+    "get_refund": "Initiate a refund.",
+    "track_refund": "Follow status of an already requested/approved refund.",
+    "complaint": "Lodge grievance about service.",
+    "review": "Write/edit a public rating or review."
+  }
+}

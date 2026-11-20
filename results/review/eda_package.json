@@ -1,0 +1,13 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "notebook_sha256": "1ab092691787098fcfd9e7d98f0083563d48966bfec745bddfcf0b3276fb623e",
+  "code_cells": 22,
+  "unchanged_code_cells": 21,
+  "changed_code_cell": "Dataset loader only; data discovery/schema check",
+  "all_code_cells_compile": true,
+  "attribution_and_synthetic_eda_only_ai_limits_present": true,
+  "original_metadata_public": true,
+  "local_execution_claimed": false,
+  "runtime_verification_required_on_kaggle": true,
+  "publication_content_review_passed": true
+}

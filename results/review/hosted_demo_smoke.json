@@ -1,0 +1,90 @@
+{
+  "status": "passed",
+  "method": "actual Gradio HTTP API on exact staged package",
+  "cases": [
+    {
+      "input": "I want to recover my password.",
+      "output": [
+        "**Suggested category: recover password.** This is a model suggestion; no action has been taken.",
+        {
+          "label": "recover password",
+          "confidences": [
+            {
+              "label": "recover password",
+              "confidence": 0.9949338218015201
+            },
+            {
+              "label": "get refund",
+              "confidence": 0.000443634870485233
+            },
+            {
+              "label": "contact human agent",
+              "confidence": 0.0003178407845580372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "input": "I want to cancel my order and get a refund.",
+      "output": [
+        "**Flagged for review.** The top candidate is cancel order, but the score is below the fixed review threshold.",
+        {
+          "label": "cancel order",
+          "confidences": [
+            {
+              "label": "cancel order",
+              "confidence": 0.6590079967557353
+            },
+            {
+              "label": "get refund",
+              "confidence": 0.2263624351306932
+            },
+            {
+              "label": "delete account",
+              "confidence": 0.060293764702557574
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "input": "Please schedule an installation appointment.",
+      "output": [
+        "**Flagged for review.** The top candidate is contact human agent, but the score is below the fixed review threshold.",
+        {
+          "label": "contact human agent",
+          "confidences": [
+            {
+              "label": "contact human agent",
+              "confidence": 0.2139822648223727
+            },
+            {
+              "label": "place order",
+              "confidence": 0.1796996818497042
+            },
+            {
+              "label": "review",
+              "confidence": 0.09788378065887926
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "input": "",
+      "output": [
+        "Enter a support request to try the demo.",
+        {}
+      ]
+    }
+  ],
+  "package_sha256": {
+    "app.py": "d59aeb24a05e8d988225093fcd608b432d8222c96e594dfcb540cac969afa4b4",
+    "LICENSE": "76c69e381bc49419dbd8c4834801dc6cbb2d9a3a65fd16cc8ec3b2841ebc76d0",
+    "model.joblib": "d18cc8ebffa7ef3cbb7b4f5199f8774cf3148c153ae2e4bc0c224469c0995b17",
+    "model_metadata.json": "99d1738a6096fb79f176835d6180b510241f19e18abbfd93e068c4b8a08cec56",
+    "README.md": "abe684f9856dadda22a938273759519a38deab6c890de6b8f719af2da97c4020",
+    "requirements.txt": "62a3a9c227ebc2f869dca2dfa996fe5cf5c185458cd828981f69268c56c5fd87"
+  }
+}

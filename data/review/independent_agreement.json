@@ -1,0 +1,13 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "n_reviewed": 60,
+  "field_agreement": {
+    "kind": 1.0,
+    "label": 1.0,
+    "expected_action": 1.0
+  },
+  "complete_row_agreement": 1.0,
+  "disagreements": [],
+  "author_key_sha256_at_comparison": "de2bb14f659507d10646b4dfe34623e6f21e3c7d4826002194174fa0483b55df",
+  "limitation": "Agreement between AI author and AI reviewer is not evidence of human annotation quality or external validity."
+}

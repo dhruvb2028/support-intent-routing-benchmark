@@ -1,0 +1,34 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "created_utc": "2026-11-20T20:53:13.386940+00:00",
+  "scope": "Reconstructed sklearn pipeline and threshold utility; train/validation/challenge_development only; no test inputs read",
+  "script_sha256": "327999a07db1bee58933de3aaa06fae7cfedab7fd029daa17aa6c6ff767cb7ac",
+  "selection_sha256_at_review": "dcf7e99735f526623acba5f11049e6afd667584f885c864c1a99f17330049e6e",
+  "input_sha256": {
+    "train": "cdda5bdcbf7173ae252eb335cd7688144193fe5b7ee468173e1125a3abc77883",
+    "validation": "32dbd11d6f896558cb23007ffd7435bd2815d8d5a16d4590165cdeb4680e430b",
+    "challenge_development": "665ddb4256cdd8200f9704233064930d1d8dc0e6e47c50dfa23a51d8ed189719"
+  },
+  "candidates": [
+    {
+      "C": 1.0,
+      "macro_f1": 0.9968081432308195,
+      "reported_macro_f1": 0.9968081432308195
+    },
+    {
+      "C": 4.0,
+      "macro_f1": 0.9976706950265056,
+      "reported_macro_f1": 0.9976706950265056
+    }
+  ],
+  "selected_C": 4.0,
+  "selected_threshold": 0.89,
+  "threshold_utility": 0.9206526806526807,
+  "maximum_absolute_probability_difference": 1.0824674490095276e-14,
+  "prediction_agreement": 1.0,
+  "probability_tolerance": 1e-06,
+  "validation_rows": 3575,
+  "elapsed_seconds": 3.993676400001277,
+  "thread_limit": 4,
+  "reproduction_passed": true
+}

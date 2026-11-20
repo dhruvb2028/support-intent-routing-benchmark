@@ -1,0 +1,18 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "version": "challenge v2",
+  "key_sha256": "fd726c6f18e0a45bf581bd6aa9e533d516072367300f1a6930119bda1e054331",
+  "reviews": {
+    "independent_blind_labels": {
+      "count": 60,
+      "complete_matches": 60,
+      "disagreements": []
+    },
+    "independent_supplement_labels": {
+      "count": 30,
+      "complete_matches": 30,
+      "disagreements": []
+    }
+  },
+  "limitation": "Original60 blind labels; supplemental30 label-hidden with intended slice disclosed. Both AI review, not human annotation."
+}

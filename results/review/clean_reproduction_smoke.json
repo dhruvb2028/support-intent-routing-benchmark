@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "prep_copy_files": 27,
+  "copied_file_hashes_verified": true,
+  "initial_copy_excluded": [
+    "results",
+    "artifacts",
+    ".cache",
+    ".venv",
+    "data/raw",
+    "data/processed/train.csv",
+    "data/processed/validation.csv",
+    "data/processed/test.csv"
+  ],
+  "regenerated_split_hashes_match": true,
+  "existing_destination_rejected_without_overwrite": true,
+  "classical_reproduction": {
+    "majority": {
+      "max_probability_difference": 0.0,
+      "same_selected_config": true,
+      "validation_examples": 3575
+    },
+    "tfidf": {
+      "max_probability_difference": 0.0,
+      "same_selected_config": true,
+      "validation_examples": 3575
+    }
+  },
+  "scope": "Fresh pinned data preparation and classical selection executed; full GPU benchmark was not redundantly rerun.",
+  "code_license_note": "MIT LICENSE was added after this copy; launcher includes LICENSE automatically in subsequent copies.",
+  "final_layout_check": {
+    "copied_files": 34,
+    "all_hashes_match": true,
+    "includes_mit_and_independent_review_provenance": true,
+    "no_frozen_results_artifacts_or_caches": true
+  }
+}

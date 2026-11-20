@@ -1,0 +1,41 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "created_utc": "2026-11-20T20:44:43.131935+00:00",
+  "scope": "All four validation/development selections; no final test inputs opened by this audit",
+  "script_sha256": "0ab4552994359f5063ae363b709e48c8062bcfe0488e85264c964f3076efc128",
+  "models": {
+    "majority": {
+      "selection_sha256": "4972cb0c23dedb8038b0f531b7b88b9495e199fd3b2f53cae850d1b484a8a8d8",
+      "validation_macro_f1": 0.002982848620432513,
+      "threshold": 0.1,
+      "threshold_utility": 0.5,
+      "reported_metrics_reconstructed": true,
+      "data_source_artifact_hashes_verified": true
+    },
+    "tfidf": {
+      "selection_sha256": "dcf7e99735f526623acba5f11049e6afd667584f885c864c1a99f17330049e6e",
+      "validation_macro_f1": 0.9976706950265056,
+      "threshold": 0.89,
+      "threshold_utility": 0.9206526806526807,
+      "reported_metrics_reconstructed": true,
+      "data_source_artifact_hashes_verified": true
+    },
+    "minilm": {
+      "selection_sha256": "fa7042876cf7f4913be5575f233f3cd98005bdf37dc569fca294edfc08f7b7c6",
+      "validation_macro_f1": 0.9955869965359658,
+      "threshold": 0.89,
+      "threshold_utility": 0.9173426573426573,
+      "reported_metrics_reconstructed": true,
+      "data_source_artifact_hashes_verified": true
+    },
+    "qwen": {
+      "selection_sha256": "d73363cb8123fa63944b70b336b4749d0f0f459b8d2d2085371db32d699713f2",
+      "validation_macro_f1": 0.27812130516734107,
+      "threshold": 1.000001,
+      "threshold_utility": 0.5,
+      "reported_metrics_reconstructed": true,
+      "data_source_artifact_hashes_verified": true
+    }
+  },
+  "review_passed": true
+}

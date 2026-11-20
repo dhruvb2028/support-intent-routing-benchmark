@@ -1,0 +1,61 @@
+example_id,kind,label,expected_action,confidence,rationale
+challenge_test_237,ambiguous,__abstain__,clarify_or_abstain,high,Undecided between two separate order actions.
+challenge_test_202,ambiguous,__abstain__,clarify_or_abstain,high,Refund-policy question plus live-agent request.
+challenge_test_030,supported,check_invoice,route,high,Verify billing details on an existing invoice.
+challenge_test_203,ambiguous,__abstain__,clarify_or_abstain,high,Registration help plus accepted-card inquiry.
+challenge_test_289,out_of_domain,__abstain__,abstain,high,Map-reading instruction outside store support.
+challenge_test_209,ambiguous,__abstain__,clarify_or_abstain,high,Registration assistance plus promotional-email opt-out.
+challenge_test_294,out_of_domain,__abstain__,abstain,high,Breathing exercise outside store support.
+challenge_test_241,out_of_domain,__abstain__,abstain,high,Creative-writing request outside store support.
+challenge_test_199,ambiguous,__abstain__,clarify_or_abstain,high,Refund status plus product-rating instructions.
+challenge_test_246,out_of_domain,__abstain__,abstain,high,Composer trivia outside store support.
+challenge_test_273,out_of_domain,__abstain__,abstain,high,Bird-navigation explanation outside store support.
+challenge_test_207,ambiguous,__abstain__,clarify_or_abstain,high,Service complaint plus refund-status check.
+challenge_test_249,out_of_domain,__abstain__,abstain,high,Translation outside store support.
+challenge_test_272,out_of_domain,__abstain__,abstain,high,Programming instruction outside store support.
+challenge_test_097,supported,delivery_period,route,high,Expected delivery time for a newly placed order.
+challenge_test_054,supported,complaint,route,high,Explicit request to record an official service grievance.
+challenge_test_186,ambiguous,__abstain__,clarify_or_abstain,high,Two status requests: refund and shipment.
+challenge_test_276,out_of_domain,__abstain__,abstain,high,History explanation outside store support.
+challenge_test_230,ambiguous,__abstain__,clarify_or_abstain,high,Missing object of waiting; could be refund or order or assistance.
+challenge_test_082,supported,delete_account,route,high,Explicit permanent account removal.
+challenge_test_004,supported,cancel_order,route,high,Cancel a specific existing purchase.
+challenge_test_259,out_of_domain,__abstain__,abstain,high,Bread-baking instructions outside store support.
+challenge_test_225,ambiguous,__abstain__,clarify_or_abstain,medium,No recipient or channel identified; clarify intended contact.
+challenge_test_299,out_of_domain,__abstain__,abstain,high,Chemistry explanation outside store support.
+challenge_test_151,supported,review,route,high,Submit a product star rating.
+challenge_test_094,supported,delivery_period,route,high,General shipping duration in business days.
+challenge_test_181,ambiguous,__abstain__,clarify_or_abstain,high,Invoice-copy request plus shipment tracking.
+challenge_test_143,supported,recover_password,route,high,Forgotten password for existing account.
+challenge_test_033,supported,check_invoice,route,high,Inspect existing invoice for a suspected duplicated line charge.
+challenge_test_165,supported,switch_account,route,high,Explicit switching between existing accounts.
+challenge_test_298,out_of_domain,__abstain__,abstain,high,Art practice outside store support.
+challenge_test_194,ambiguous,__abstain__,clarify_or_abstain,high,Account deletion plus marketing unsubscribe.
+challenge_test_283,out_of_domain,__abstain__,abstain,high,Swimming coaching outside store support.
+challenge_test_223,ambiguous,__abstain__,clarify_or_abstain,high,No information about which prior problem.
+challenge_test_138,supported,recover_password,route,high,Explicit forgotten password reset.
+challenge_test_114,supported,get_refund,route,high,Initiate a refund for identified order.
+challenge_test_229,ambiguous,__abstain__,clarify_or_abstain,high,Object to add is absent; cannot select address or order or account.
+challenge_test_044,supported,check_refund_policy,route,high,Eligibility of opened products under refund rules.
+challenge_test_226,ambiguous,__abstain__,clarify_or_abstain,high,Type of request to check is unspecified.
+challenge_test_190,ambiguous,__abstain__,clarify_or_abstain,high,Account switching plus purchase cancellation.
+challenge_test_215,ambiguous,__abstain__,clarify_or_abstain,high,Unclear referent; could mean money or account or item.
+challenge_test_062,supported,contact_customer_service,route,high,Ask for general help-department contact channels.
+challenge_test_297,out_of_domain,__abstain__,abstain,high,Food-science question outside store support.
+challenge_test_277,out_of_domain,__abstain__,abstain,high,Geology explanation outside store support.
+challenge_test_182,ambiguous,__abstain__,clarify_or_abstain,high,Refund plus review: two explicit intents.
+challenge_test_025,supported,check_cancellation_fee,route,high,Ask about cancellation charge.
+challenge_test_253,out_of_domain,__abstain__,abstain,high,History narrative outside store support.
+challenge_test_267,out_of_domain,__abstain__,abstain,high,Creative-writing request outside store support.
+challenge_test_092,supported,delivery_period,route,high,Expected delivery date for hypothetical new order.
+challenge_test_247,out_of_domain,__abstain__,abstain,high,Board-game instruction outside store support.
+challenge_test_046,supported,check_refund_policy,route,high,Receipt condition for refund eligibility.
+challenge_test_242,out_of_domain,__abstain__,abstain,high,Math instruction outside store support.
+challenge_test_240,out_of_domain,__abstain__,abstain,high,Astronomy explanation outside store support.
+challenge_test_069,supported,contact_human_agent,route,high,Ask for live human takeover of this interaction.
+challenge_test_052,supported,complaint,route,high,Report unacceptable service by delivery contractor.
+challenge_test_006,supported,cancel_order,route,high,Withdraw an identified existing order entirely.
+challenge_test_266,out_of_domain,__abstain__,abstain,high,Weather-learning request outside store support.
+challenge_test_201,ambiguous,__abstain__,clarify_or_abstain,high,Cancel one order and change another order destination.
+challenge_test_213,ambiguous,__abstain__,clarify_or_abstain,high,Status object not stated.
+challenge_test_216,ambiguous,__abstain__,clarify_or_abstain,high,Unclear action object; could be order or subscription or account.

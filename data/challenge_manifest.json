@@ -1,0 +1,85 @@
+{
+  "schema_version": 2,
+  "freeze_version": "v2-near-domain-ood",
+  "changes_from_v1": {
+    "reason": "Independent review identified distant-only OOD as too easy before model freeze",
+    "replaced_final_ids": [
+      "challenge_test_243",
+      "challenge_test_244",
+      "challenge_test_245",
+      "challenge_test_248",
+      "challenge_test_250",
+      "challenge_test_251",
+      "challenge_test_252",
+      "challenge_test_254",
+      "challenge_test_255",
+      "challenge_test_256",
+      "challenge_test_257",
+      "challenge_test_258",
+      "challenge_test_260",
+      "challenge_test_261",
+      "challenge_test_262",
+      "challenge_test_263",
+      "challenge_test_264",
+      "challenge_test_265",
+      "challenge_test_268",
+      "challenge_test_269",
+      "challenge_test_270",
+      "challenge_test_271",
+      "challenge_test_274",
+      "challenge_test_275",
+      "challenge_test_278",
+      "challenge_test_279",
+      "challenge_test_280",
+      "challenge_test_281",
+      "challenge_test_282",
+      "challenge_test_284"
+    ],
+    "original_blind_sample_preserved": true,
+    "test_ood_subtypes": {
+      "near_domain": 30,
+      "far_domain": 30
+    },
+    "development_ood_subtypes": {
+      "near_domain": 9,
+      "far_domain": 8
+    }
+  },
+  "author": "Codex data_evaluation agent",
+  "creation_context": "No model predictions or evaluation results were viewed. Authored from ontology and task goals.",
+  "synthetic": true,
+  "test_counts": {
+    "supported": 180,
+    "ambiguous": 60,
+    "out_of_domain": 60
+  },
+  "development_counts": {
+    "supported": 27,
+    "ambiguous": 16,
+    "out_of_domain": 17
+  },
+  "blind_review": {
+    "sample_size": 60,
+    "selection": "20 deterministic hash-sampled requests per kind; reviewer receives no kinds or labels",
+    "status": "Completed: original60/60 and supplemental30/30 kind,label,action agreement",
+    "human_review": false,
+    "initial_sample_size": 60,
+    "supplemental_sample_size": 30,
+    "supplemental_limitation": "Label-hidden AI review; reviewer knew the intended near-domain slice, so not fully blind to kind",
+    "final_agreement_path": "data/review/independent_agreement_v2.json",
+    "final_agreement_sha256": "3887e1b2ec819f08ad62e53ee50ed38937f51397d192235d135b2ea0a0680354"
+  },
+  "files": {
+    "processed/challenge_test.csv": "fd726c6f18e0a45bf581bd6aa9e533d516072367300f1a6930119bda1e054331",
+    "processed/challenge_development.csv": "665ddb4256cdd8200f9704233064930d1d8dc0e6e47c50dfa23a51d8ed189719",
+    "review_blind.csv": "83d3e6242008eb73b7ff2335c97e5c17b3a81154fe91837e5d62b10056835227",
+    "review_near_domain_blind.csv": "c270d694af7f25ad838224adb9a7eb14de1ae06c190ff0d3a2c2aa6e47868195",
+    "ontology.json": "fbab5b4152cc9500f7d704230cb5a6984ac70ee3a3d668a6109408c271c13618"
+  },
+  "limitations": [
+    "Synthetic examples authored by one AI agent; diagnostic examples are not representative real production traffic.",
+    "A separate AI agent review is not a human annotation study.",
+    "English-only and narrow support domain.",
+    "Small per-intent challenge counts make individual class estimates noisy."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "files": 22,
+  "copied_files": 19,
+  "allowlist_exact": true,
+  "all_copy_hashes_match": true,
+  "all_challenge_hash_references_present": true,
+  "all_corpus_hash_references_match": true,
+  "license": "CDLA-Sharing-1.0",
+  "title_length": 50,
+  "package_manifest_sha256": "81c59d704a27a81b495a79f941b80cc8c808e1ce6d34db732bf7ee62b459c6bf",
+  "metadata_sha256": "062ce208609fea307211d30181ccfad10b98cb1c09e0e8102675b8c3800005a7",
+  "publication_package_review_passed": true
+}

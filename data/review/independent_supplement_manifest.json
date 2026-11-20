@@ -1,0 +1,11 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "review_type": "Supplemental label-hidden AI review; reviewer was informed of intended near-domain slice, so not fully blind to intended kind",
+  "count": 30,
+  "created_utc": "2026-11-20T20:32:32.368431+00:00",
+  "input_sha256": "c270d694af7f25ad838224adb9a7eb14de1ae06c190ff0d3a2c2aa6e47868195",
+  "ontology_sha256": "fbab5b4152cc9500f7d704230cb5a6984ac70ee3a3d668a6109408c271c13618",
+  "labels_sha256": "53dc72163f8e98602727b7c2a5f8f2f93ebf4a1b6798307f524e7020bc8aa773",
+  "author_updated_label_file_seen_before_submission": false,
+  "model_predictions_seen": false
+}

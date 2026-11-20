@@ -1,0 +1,25 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "created_utc": "2026-11-20T20:40:21.753428+00:00",
+  "scope": "Fresh isolated rerun of committed preparation code from verified cached raw bytes",
+  "splits": {
+    "train": {
+      "sha256": "cdda5bdcbf7173ae252eb335cd7688144193fe5b7ee468173e1125a3abc77883",
+      "same_as_frozen": true,
+      "rows": 16681
+    },
+    "validation": {
+      "sha256": "32dbd11d6f896558cb23007ffd7435bd2815d8d5a16d4590165cdeb4680e430b",
+      "same_as_frozen": true,
+      "rows": 3575
+    },
+    "test": {
+      "sha256": "118eaee9a6485bbe9bff5240b3fb8060b29dc82cf01e13794589a4997f1b5f6e",
+      "same_as_frozen": true,
+      "rows": 3570
+    }
+  },
+  "groups": 22445,
+  "elapsed_seconds": 19.09642829999939,
+  "reproduction_passed": true
+}

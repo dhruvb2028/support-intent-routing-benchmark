@@ -1,0 +1,13 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "notebook_sha256": "1c8ffa9e0ee8f632cded76bd2a6277eafb5f9e518757bcff53ca7a96fff9bd1f",
+  "cells": 17,
+  "executed_code_cells": 7,
+  "payload_matches_current_evidence": true,
+  "all_embedded_prediction_and_failure_files_match": true,
+  "training_replay_scope": "TF-IDF only at frozen configuration; neural results and timings are recorded artifacts",
+  "source_code_replay_reviewed": true,
+  "saved_execution_outputs_present": true,
+  "quality_latency_figure_visually_reviewed": true,
+  "publication_package_review_passed": true
+}

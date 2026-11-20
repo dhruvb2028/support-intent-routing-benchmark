@@ -1,0 +1,2205 @@
+[
+  {
+    "threshold": 0.0,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.1,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.11,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.12000000000000001,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.13,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.14,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.15000000000000002,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.16,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.17,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.18,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.19,
+    "utility": -0.8706293706293706,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3575,
+    "coverage": 1.0,
+    "selective_accuracy": 0.3146853146853147,
+    "selective_error": 0.6853146853146853,
+    "coverage_ci95": {
+      "low": 0.9989266194479709,
+      "high": 1.0,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.29966834237444223,
+      "high": 0.3301001133546317,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6853146853146853
+  },
+  {
+    "threshold": 0.2,
+    "utility": -0.8702097902097903,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3574,
+    "coverage": 0.9997202797202798,
+    "selective_accuracy": 0.31477336317851146,
+    "selective_error": 0.6852266368214885,
+    "coverage_ci95": {
+      "low": 0.9984171585856568,
+      "high": 0.9999506207954904,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.2997530756644232,
+      "high": 0.3301913991708566,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3574
+    },
+    "correctly_routed_fraction": 0.3146853146853147,
+    "wrongly_routed_fraction": 0.6850349650349651
+  },
+  {
+    "threshold": 0.21000000000000002,
+    "utility": -0.8695104895104897,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3571,
+    "coverage": 0.9988811188811189,
+    "selective_accuracy": 0.3147577709325119,
+    "selective_error": 0.6852422290674881,
+    "coverage_ci95": {
+      "low": 0.9971264535350114,
+      "high": 0.9995648056456633,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.2997314849970973,
+      "high": 0.330182172646214,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3571
+    },
+    "correctly_routed_fraction": 0.3144055944055944,
+    "wrongly_routed_fraction": 0.6844755244755245
+  },
+  {
+    "threshold": 0.22,
+    "utility": -0.8682517482517482,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3568,
+    "coverage": 0.998041958041958,
+    "selective_accuracy": 0.3150224215246637,
+    "selective_error": 0.6849775784753364,
+    "coverage_ci95": {
+      "low": 0.995963545078612,
+      "high": 0.9990511939015907,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.2999861695544518,
+      "high": 0.3304565543967336,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3568
+    },
+    "correctly_routed_fraction": 0.3144055944055944,
+    "wrongly_routed_fraction": 0.6836363636363636
+  },
+  {
+    "threshold": 0.23,
+    "utility": -0.866993006993007,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3565,
+    "coverage": 0.9972027972027973,
+    "selective_accuracy": 0.3152875175315568,
+    "selective_error": 0.6847124824684432,
+    "coverage_ci95": {
+      "low": 0.9948583395905428,
+      "high": 0.9984798791891878,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30024128781203574,
+      "high": 0.3307313919227497,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3565
+    },
+    "correctly_routed_fraction": 0.3144055944055944,
+    "wrongly_routed_fraction": 0.6827972027972028
+  },
+  {
+    "threshold": 0.24000000000000002,
+    "utility": -0.8640559440559441,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3558,
+    "coverage": 0.9952447552447552,
+    "selective_accuracy": 0.3159078133783024,
+    "selective_error": 0.6840921866216976,
+    "coverage_ci95": {
+      "low": 0.9923974620608171,
+      "high": 0.997028876251145,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3008382566027701,
+      "high": 0.3313744583242627,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3558
+    },
+    "correctly_routed_fraction": 0.3144055944055944,
+    "wrongly_routed_fraction": 0.6808391608391609
+  },
+  {
+    "threshold": 0.25,
+    "utility": -0.8626573426573427,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3552,
+    "coverage": 0.9935664335664336,
+    "selective_accuracy": 0.3158783783783784,
+    "selective_error": 0.6841216216216216,
+    "coverage_ci95": {
+      "low": 0.9903642139668093,
+      "high": 0.9957090839442088,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3007966929558922,
+      "high": 0.3313578856023425,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3552
+    },
+    "correctly_routed_fraction": 0.31384615384615383,
+    "wrongly_routed_fraction": 0.6797202797202797
+  },
+  {
+    "threshold": 0.26,
+    "utility": -0.8609790209790209,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3548,
+    "coverage": 0.9924475524475525,
+    "selective_accuracy": 0.31623449830890643,
+    "selective_error": 0.6837655016910936,
+    "coverage_ci95": {
+      "low": 0.9890336913792263,
+      "high": 0.9948042462644956,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30113942027284935,
+      "high": 0.3317270758480213,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3548
+    },
+    "correctly_routed_fraction": 0.31384615384615383,
+    "wrongly_routed_fraction": 0.6786013986013986
+  },
+  {
+    "threshold": 0.27,
+    "utility": -0.8586013986013985,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3541,
+    "coverage": 0.9904895104895105,
+    "selective_accuracy": 0.31657723806834226,
+    "selective_error": 0.6834227619316577,
+    "coverage_ci95": {
+      "low": 0.9867399134744474,
+      "high": 0.9931861437015062,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3014626368035179,
+      "high": 0.3320893809411194,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3541
+    },
+    "correctly_routed_fraction": 0.31356643356643354,
+    "wrongly_routed_fraction": 0.676923076923077
+  },
+  {
+    "threshold": 0.28,
+    "utility": -0.8555244755244756,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3531,
+    "coverage": 0.9876923076923076,
+    "selective_accuracy": 0.3169073916737468,
+    "selective_error": 0.6830926083262532,
+    "coverage_ci95": {
+      "low": 0.9835188593002816,
+      "high": 0.9908187972074313,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.301767062558293,
+      "high": 0.33244566945165277,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3531
+    },
+    "correctly_routed_fraction": 0.31300699300699303,
+    "wrongly_routed_fraction": 0.6746853146853147
+  },
+  {
+    "threshold": 0.29000000000000004,
+    "utility": -0.8504895104895106,
+    "unsafe_defer_rate": 0.0,
+    "count": 3575,
+    "accepted": 3519,
+    "coverage": 0.9843356643356643,
+    "selective_accuracy": 0.31798806479113384,
+    "selective_error": 0.6820119352088662,
+    "coverage_ci95": {
+      "low": 0.9797144846553396,
+      "high": 0.9879170910504849,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3028071486174315,
+      "high": 0.3335659283507193,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3519
+    },
+    "correctly_routed_fraction": 0.31300699300699303,
+    "wrongly_routed_fraction": 0.6713286713286714
+  },
+  {
+    "threshold": 0.30000000000000004,
+    "utility": -0.832820512820513,
+    "unsafe_defer_rate": 0.030303030303030304,
+    "count": 3575,
+    "accepted": 3513,
+    "coverage": 0.9826573426573426,
+    "selective_accuracy": 0.318531169940222,
+    "selective_error": 0.681468830059778,
+    "coverage_ci95": {
+      "low": 0.9778310389497616,
+      "high": 0.9864474963551185,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30332988820426793,
+      "high": 0.33412888981311034,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3513
+    },
+    "correctly_routed_fraction": 0.31300699300699303,
+    "wrongly_routed_fraction": 0.6696503496503496
+  },
+  {
+    "threshold": 0.31,
+    "utility": -0.8272261072261072,
+    "unsafe_defer_rate": 0.030303030303030304,
+    "count": 3575,
+    "accepted": 3497,
+    "coverage": 0.9781818181818182,
+    "selective_accuracy": 0.31941664283671717,
+    "selective_error": 0.6805833571632828,
+    "coverage_ci95": {
+      "low": 0.9728548484772012,
+      "high": 0.9824822457584944,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3041687602167593,
+      "high": 0.3350608321951579,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3497
+    },
+    "correctly_routed_fraction": 0.31244755244755246,
+    "wrongly_routed_fraction": 0.6657342657342658
+  },
+  {
+    "threshold": 0.32,
+    "utility": -0.8237296037296038,
+    "unsafe_defer_rate": 0.030303030303030304,
+    "count": 3575,
+    "accepted": 3486,
+    "coverage": 0.9751048951048951,
+    "selective_accuracy": 0.3198508318990247,
+    "selective_error": 0.6801491681009754,
+    "coverage_ci95": {
+      "low": 0.9694649419432543,
+      "high": 0.9797249115573768,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30457320303449686,
+      "high": 0.3355250607919539,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3486
+    },
+    "correctly_routed_fraction": 0.3118881118881119,
+    "wrongly_routed_fraction": 0.6632167832167832
+  },
+  {
+    "threshold": 0.33,
+    "utility": -0.8203729603729604,
+    "unsafe_defer_rate": 0.030303030303030304,
+    "count": 3575,
+    "accepted": 3478,
+    "coverage": 0.9728671328671329,
+    "selective_accuracy": 0.32058654399079933,
+    "selective_error": 0.6794134560092007,
+    "coverage_ci95": {
+      "low": 0.967012483086798,
+      "high": 0.9777066498792409,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3052813819972125,
+      "high": 0.33628759385653023,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3478
+    },
+    "correctly_routed_fraction": 0.3118881118881119,
+    "wrongly_routed_fraction": 0.660979020979021
+  },
+  {
+    "threshold": 0.33999999999999997,
+    "utility": -0.801025641025641,
+    "unsafe_defer_rate": 0.06060606060606061,
+    "count": 3575,
+    "accepted": 3460,
+    "coverage": 0.9678321678321679,
+    "selective_accuracy": 0.32052023121387285,
+    "selective_error": 0.6794797687861271,
+    "coverage_ci95": {
+      "low": 0.961527438286445,
+      "high": 0.9731325734767612,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3051767838399042,
+      "high": 0.33626177079219677,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3460
+    },
+    "correctly_routed_fraction": 0.3102097902097902,
+    "wrongly_routed_fraction": 0.6576223776223776
+  },
+  {
+    "threshold": 0.35,
+    "utility": -0.7812587412587413,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3441,
+    "coverage": 0.9625174825174825,
+    "selective_accuracy": 0.32054635280441734,
+    "selective_error": 0.6794536471955827,
+    "coverage_ci95": {
+      "low": 0.9557783142328256,
+      "high": 0.9682637362607238,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30516082872238376,
+      "high": 0.3363321065075618,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3441
+    },
+    "correctly_routed_fraction": 0.3085314685314685,
+    "wrongly_routed_fraction": 0.653986013986014
+  },
+  {
+    "threshold": 0.36,
+    "utility": -0.7777622377622379,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3430,
+    "coverage": 0.9594405594405594,
+    "selective_accuracy": 0.32099125364431486,
+    "selective_error": 0.6790087463556851,
+    "coverage_ci95": {
+      "low": 0.9524656511129733,
+      "high": 0.9654291586455116,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3055752181435203,
+      "high": 0.33680780543912936,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3430
+    },
+    "correctly_routed_fraction": 0.307972027972028,
+    "wrongly_routed_fraction": 0.6514685314685315
+  },
+  {
+    "threshold": 0.37,
+    "utility": -0.76993006993007,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3402,
+    "coverage": 0.9516083916083916,
+    "selective_accuracy": 0.32157554379776604,
+    "selective_error": 0.678424456202234,
+    "coverage_ci95": {
+      "low": 0.944076374605791,
+      "high": 0.958170913281621,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3060889233970727,
+      "high": 0.3374646551595877,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3402
+    },
+    "correctly_routed_fraction": 0.306013986013986,
+    "wrongly_routed_fraction": 0.6455944055944056
+  },
+  {
+    "threshold": 0.38,
+    "utility": -0.7646153846153847,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3388,
+    "coverage": 0.9476923076923077,
+    "selective_accuracy": 0.32260920897284534,
+    "selective_error": 0.6773907910271547,
+    "coverage_ci95": {
+      "low": 0.9399014890914625,
+      "high": 0.9545220378604129,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.307076672069774,
+      "high": 0.3385435567666522,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3388
+    },
+    "correctly_routed_fraction": 0.3057342657342657,
+    "wrongly_routed_fraction": 0.641958041958042
+  },
+  {
+    "threshold": 0.39,
+    "utility": -0.7601398601398603,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3372,
+    "coverage": 0.9432167832167833,
+    "selective_accuracy": 0.32295373665480426,
+    "selective_error": 0.6770462633451957,
+    "coverage_ci95": {
+      "low": 0.9351439782258943,
+      "high": 0.9503381076567965,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30738011320988773,
+      "high": 0.3389302913026783,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3372
+    },
+    "correctly_routed_fraction": 0.3046153846153846,
+    "wrongly_routed_fraction": 0.6386013986013986
+  },
+  {
+    "threshold": 0.4,
+    "utility": -0.7535664335664336,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3351,
+    "coverage": 0.9373426573426573,
+    "selective_accuracy": 0.3237839450910176,
+    "selective_error": 0.6762160549089824,
+    "coverage_ci95": {
+      "low": 0.9289195116626834,
+      "high": 0.9448269328167025,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.30815073291574835,
+      "high": 0.3398207094023785,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3351
+    },
+    "correctly_routed_fraction": 0.3034965034965035,
+    "wrongly_routed_fraction": 0.6338461538461538
+  },
+  {
+    "threshold": 0.41000000000000003,
+    "utility": -0.7444755244755245,
+    "unsafe_defer_rate": 0.09090909090909091,
+    "count": 3575,
+    "accepted": 3324,
+    "coverage": 0.9297902097902098,
+    "selective_accuracy": 0.32521058965102284,
+    "selective_error": 0.6747894103489771,
+    "coverage_ci95": {
+      "low": 0.9209453552592648,
+      "high": 0.937712407415872,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3094951022245646,
+      "high": 0.3413296097159541,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3324
+    },
+    "correctly_routed_fraction": 0.3023776223776224,
+    "wrongly_routed_fraction": 0.6274125874125874
+  },
+  {
+    "threshold": 0.42000000000000004,
+    "utility": -0.7108158508158507,
+    "unsafe_defer_rate": 0.15151515151515152,
+    "count": 3575,
+    "accepted": 3308,
+    "coverage": 0.9253146853146853,
+    "selective_accuracy": 0.32496977025392987,
+    "selective_error": 0.6750302297460702,
+    "coverage_ci95": {
+      "low": 0.9162333724808748,
+      "high": 0.9334829491250775,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3092201865693701,
+      "high": 0.34112539476399806,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3308
+    },
+    "correctly_routed_fraction": 0.3006993006993007,
+    "wrongly_routed_fraction": 0.6246153846153846
+  },
+  {
+    "threshold": 0.43000000000000005,
+    "utility": -0.7021445221445223,
+    "unsafe_defer_rate": 0.15151515151515152,
+    "count": 3575,
+    "accepted": 3282,
+    "coverage": 0.9180419580419581,
+    "selective_accuracy": 0.3263254113345521,
+    "selective_error": 0.6736745886654479,
+    "coverage_ci95": {
+      "low": 0.9085952685185495,
+      "high": 0.9265912113499778,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3104956248055248,
+      "high": 0.34256128183867113,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3282
+    },
+    "correctly_routed_fraction": 0.2995804195804196,
+    "wrongly_routed_fraction": 0.6184615384615385
+  },
+  {
+    "threshold": 0.44000000000000006,
+    "utility": -0.6929137529137529,
+    "unsafe_defer_rate": 0.15151515151515152,
+    "count": 3575,
+    "accepted": 3252,
+    "coverage": 0.9096503496503496,
+    "selective_accuracy": 0.3274907749077491,
+    "selective_error": 0.672509225092251,
+    "coverage_ci95": {
+      "low": 0.8998079353862973,
+      "high": 0.9186133424775087,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3115730246183142,
+      "high": 0.3438156009671582,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3252
+    },
+    "correctly_routed_fraction": 0.29790209790209793,
+    "wrongly_routed_fraction": 0.6117482517482518
+  },
+  {
+    "threshold": 0.45000000000000007,
+    "utility": -0.6834032634032633,
+    "unsafe_defer_rate": 0.15151515151515152,
+    "count": 3575,
+    "accepted": 3220,
+    "coverage": 0.9006993006993007,
+    "selective_accuracy": 0.32857142857142857,
+    "selective_error": 0.6714285714285714,
+    "coverage_ci95": {
+      "low": 0.890461638502204,
+      "high": 0.9100767572232329,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3125609390956503,
+      "high": 0.34499045910373527,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3220
+    },
+    "correctly_routed_fraction": 0.29594405594405593,
+    "wrongly_routed_fraction": 0.6047552447552448
+  },
+  {
+    "threshold": 0.45999999999999996,
+    "utility": -0.6591608391608391,
+    "unsafe_defer_rate": 0.18181818181818182,
+    "count": 3575,
+    "accepted": 3189,
+    "coverage": 0.892027972027972,
+    "selective_accuracy": 0.3295703982439636,
+    "selective_error": 0.6704296017560364,
+    "coverage_ci95": {
+      "low": 0.8814307964630306,
+      "high": 0.901783557190861,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.31346956253379255,
+      "high": 0.34608133781016204,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3189
+    },
+    "correctly_routed_fraction": 0.293986013986014,
+    "wrongly_routed_fraction": 0.598041958041958
+  },
+  {
+    "threshold": 0.47,
+    "utility": -0.6504895104895104,
+    "unsafe_defer_rate": 0.18181818181818182,
+    "count": 3575,
+    "accepted": 3163,
+    "coverage": 0.8847552447552448,
+    "selective_accuracy": 0.3310148593107809,
+    "selective_error": 0.6689851406892191,
+    "coverage_ci95": {
+      "low": 0.8738724855654109,
+      "high": 0.8948120263510558,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3148290152393479,
+      "high": 0.34761066988524725,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3163
+    },
+    "correctly_routed_fraction": 0.29286713286713284,
+    "wrongly_routed_fraction": 0.5918881118881119
+  },
+  {
+    "threshold": 0.48,
+    "utility": -0.6272261072261073,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 3137,
+    "coverage": 0.8774825174825175,
+    "selective_accuracy": 0.33216448836467966,
+    "selective_error": 0.6678355116353204,
+    "coverage_ci95": {
+      "low": 0.8663274494607852,
+      "high": 0.8878272207182561,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.31589685867887896,
+      "high": 0.3488426661249694,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3137
+    },
+    "correctly_routed_fraction": 0.29146853146853147,
+    "wrongly_routed_fraction": 0.586013986013986
+  },
+  {
+    "threshold": 0.49,
+    "utility": -0.6192540792540792,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 3106,
+    "coverage": 0.8688111888111888,
+    "selective_accuracy": 0.3325820991629105,
+    "selective_error": 0.6674179008370895,
+    "coverage_ci95": {
+      "low": 0.8573473957797979,
+      "high": 0.8794832323276982,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.31622887071295086,
+      "high": 0.34934893646105664,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3106
+    },
+    "correctly_routed_fraction": 0.28895104895104895,
+    "wrongly_routed_fraction": 0.5798601398601398
+  },
+  {
+    "threshold": 0.5,
+    "utility": -0.6063869463869463,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 3062,
+    "coverage": 0.8565034965034966,
+    "selective_accuracy": 0.3340953625081646,
+    "selective_error": 0.6659046374918354,
+    "coverage_ci95": {
+      "low": 0.8446286376557169,
+      "high": 0.8676130275115216,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.31760586589788176,
+      "high": 0.35100061175383135,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3062
+    },
+    "correctly_routed_fraction": 0.28615384615384615,
+    "wrongly_routed_fraction": 0.5703496503496504
+  },
+  {
+    "threshold": 0.51,
+    "utility": -0.5936596736596736,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 3025,
+    "coverage": 0.8461538461538461,
+    "selective_accuracy": 0.3365289256198347,
+    "selective_error": 0.6634710743801653,
+    "coverage_ci95": {
+      "low": 0.8339557083385587,
+      "high": 0.8576088743561903,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3199069965677988,
+      "high": 0.35356551315376455,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3025
+    },
+    "correctly_routed_fraction": 0.2847552447552448,
+    "wrongly_routed_fraction": 0.5613986013986014
+  },
+  {
+    "threshold": 0.52,
+    "utility": -0.5821911421911422,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 2991,
+    "coverage": 0.8366433566433567,
+    "selective_accuracy": 0.33868271481109996,
+    "selective_error": 0.6613172851889,
+    "coverage_ci95": {
+      "low": 0.8241646328765325,
+      "high": 0.8483993875461991,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3219386483863337,
+      "high": 0.35584062197945165,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2991
+    },
+    "correctly_routed_fraction": 0.28335664335664335,
+    "wrongly_routed_fraction": 0.5532867132867133
+  },
+  {
+    "threshold": 0.53,
+    "utility": -0.5775757575757575,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 2972,
+    "coverage": 0.8313286713286713,
+    "selective_accuracy": 0.33882907133243606,
+    "selective_error": 0.6611709286675639,
+    "coverage_ci95": {
+      "low": 0.8186995903739482,
+      "high": 0.8432464687791266,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3220303121845154,
+      "high": 0.35604393563524284,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2972
+    },
+    "correctly_routed_fraction": 0.2816783216783217,
+    "wrongly_routed_fraction": 0.5496503496503496
+  },
+  {
+    "threshold": 0.54,
+    "utility": -0.5679254079254078,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 2945,
+    "coverage": 0.8237762237762237,
+    "selective_accuracy": 0.3409168081494058,
+    "selective_error": 0.6590831918505943,
+    "coverage_ci95": {
+      "low": 0.8109410021088278,
+      "high": 0.835916375239998,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.32401410298873595,
+      "high": 0.358233988987451,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2945
+    },
+    "correctly_routed_fraction": 0.28083916083916083,
+    "wrongly_routed_fraction": 0.5429370629370629
+  },
+  {
+    "threshold": 0.55,
+    "utility": -0.5616317016317016,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 2914,
+    "coverage": 0.8151048951048951,
+    "selective_accuracy": 0.3404255319148936,
+    "selective_error": 0.6595744680851063,
+    "coverage_ci95": {
+      "low": 0.802043365962172,
+      "high": 0.8274899693151088,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3234409958244639,
+      "high": 0.3578302407642853,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2914
+    },
+    "correctly_routed_fraction": 0.2774825174825175,
+    "wrongly_routed_fraction": 0.5376223776223776
+  },
+  {
+    "threshold": 0.56,
+    "utility": -0.5537995337995337,
+    "unsafe_defer_rate": 0.21212121212121213,
+    "count": 3575,
+    "accepted": 2890,
+    "coverage": 0.8083916083916084,
+    "selective_accuracy": 0.34186851211072666,
+    "selective_error": 0.6581314878892733,
+    "coverage_ci95": {
+      "low": 0.7951621201231234,
+      "high": 0.8209590535503803,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.32479504673524046,
+      "high": 0.3593618039401674,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2890
+    },
+    "correctly_routed_fraction": 0.27636363636363637,
+    "wrongly_routed_fraction": 0.532027972027972
+  },
+  {
+    "threshold": 0.5700000000000001,
+    "utility": -0.5301165501165501,
+    "unsafe_defer_rate": 0.24242424242424243,
+    "count": 3575,
+    "accepted": 2863,
+    "coverage": 0.8008391608391608,
+    "selective_accuracy": 0.3433461404121551,
+    "selective_error": 0.656653859587845,
+    "coverage_ci95": {
+      "low": 0.7874279319431099,
+      "high": 0.8136045599261448,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3261735498867551,
+      "high": 0.3609385513980539,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2863
+    },
+    "correctly_routed_fraction": 0.27496503496503494,
+    "wrongly_routed_fraction": 0.5258741258741259
+  },
+  {
+    "threshold": 0.58,
+    "utility": -0.5166899766899767,
+    "unsafe_defer_rate": 0.24242424242424243,
+    "count": 3575,
+    "accepted": 2823,
+    "coverage": 0.7896503496503496,
+    "selective_accuracy": 0.3460857244066596,
+    "selective_error": 0.6539142755933404,
+    "coverage_ci95": {
+      "low": 0.7759832459293601,
+      "high": 0.802695643266933,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3287568643115544,
+      "high": 0.36383289968513943,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2823
+    },
+    "correctly_routed_fraction": 0.2732867132867133,
+    "wrongly_routed_fraction": 0.5163636363636364
+  },
+  {
+    "threshold": 0.59,
+    "utility": -0.5092773892773893,
+    "unsafe_defer_rate": 0.24242424242424243,
+    "count": 3575,
+    "accepted": 2796,
+    "coverage": 0.7820979020979021,
+    "selective_accuracy": 0.3469241773962804,
+    "selective_error": 0.6530758226037195,
+    "coverage_ci95": {
+      "low": 0.7682666880108611,
+      "high": 0.795323519381183,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.32950180814177343,
+      "high": 0.3647665950554022,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2796
+    },
+    "correctly_routed_fraction": 0.27132867132867133,
+    "wrongly_routed_fraction": 0.5107692307692308
+  },
+  {
+    "threshold": 0.6,
+    "utility": -0.4996270396270396,
+    "unsafe_defer_rate": 0.24242424242424243,
+    "count": 3575,
+    "accepted": 2765,
+    "coverage": 0.7734265734265734,
+    "selective_accuracy": 0.34864376130198915,
+    "selective_error": 0.6513562386980108,
+    "coverage_ci95": {
+      "low": 0.7594150981046051,
+      "high": 0.7868510672158937,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.33110247124259307,
+      "high": 0.3666050311737802,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2765
+    },
+    "correctly_routed_fraction": 0.2696503496503497,
+    "wrongly_routed_fraction": 0.5037762237762238
+  },
+  {
+    "threshold": 0.61,
+    "utility": -0.47426573426573426,
+    "unsafe_defer_rate": 0.2727272727272727,
+    "count": 3575,
+    "accepted": 2730,
+    "coverage": 0.7636363636363637,
+    "selective_accuracy": 0.35018315018315016,
+    "selective_error": 0.6498168498168498,
+    "coverage_ci95": {
+      "low": 0.7494314264169483,
+      "high": 0.777275336564709,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3325109020626157,
+      "high": 0.3682764287605611,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2730
+    },
+    "correctly_routed_fraction": 0.2674125874125874,
+    "wrongly_routed_fraction": 0.4962237762237762
+  },
+  {
+    "threshold": 0.62,
+    "utility": -0.4626573426573427,
+    "unsafe_defer_rate": 0.2727272727272727,
+    "count": 3575,
+    "accepted": 2693,
+    "coverage": 0.7532867132867133,
+    "selective_accuracy": 0.3523950984032677,
+    "selective_error": 0.6476049015967322,
+    "coverage_ci95": {
+      "low": 0.7388883677220097,
+      "high": 0.767141312787158,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.33457434733836117,
+      "high": 0.37063635483333907,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2693
+    },
+    "correctly_routed_fraction": 0.26545454545454544,
+    "wrongly_routed_fraction": 0.4878321678321678
+  },
+  {
+    "threshold": 0.63,
+    "utility": -0.44177156177156185,
+    "unsafe_defer_rate": 0.30303030303030304,
+    "count": 3575,
+    "accepted": 2678,
+    "coverage": 0.7490909090909091,
+    "selective_accuracy": 0.35399551904406273,
+    "selective_error": 0.6460044809559373,
+    "coverage_ci95": {
+      "low": 0.7346172963010451,
+      "high": 0.7630297832057622,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3361047133596278,
+      "high": 0.3723045971803493,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2678
+    },
+    "correctly_routed_fraction": 0.26517482517482516,
+    "wrongly_routed_fraction": 0.48391608391608393
+  },
+  {
+    "threshold": 0.64,
+    "utility": -0.43547785547785556,
+    "unsafe_defer_rate": 0.30303030303030304,
+    "count": 3575,
+    "accepted": 2651,
+    "coverage": 0.7415384615384616,
+    "selective_accuracy": 0.35420596001508864,
+    "selective_error": 0.6457940399849114,
+    "coverage_ci95": {
+      "low": 0.7269338008243194,
+      "high": 0.7556245968782389,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3362227197276979,
+      "high": 0.3726111176256731,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2651
+    },
+    "correctly_routed_fraction": 0.26265734265734264,
+    "wrongly_routed_fraction": 0.4788811188811189
+  },
+  {
+    "threshold": 0.65,
+    "utility": -0.43058275058275053,
+    "unsafe_defer_rate": 0.30303030303030304,
+    "count": 3575,
+    "accepted": 2630,
+    "coverage": 0.7356643356643356,
+    "selective_accuracy": 0.3543726235741445,
+    "selective_error": 0.6456273764258555,
+    "coverage_ci95": {
+      "low": 0.7209616009590827,
+      "high": 0.7498611553401706,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3363164878489726,
+      "high": 0.37285355447279367,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2630
+    },
+    "correctly_routed_fraction": 0.2606993006993007,
+    "wrongly_routed_fraction": 0.47496503496503495
+  },
+  {
+    "threshold": 0.66,
+    "utility": -0.42023310023310023,
+    "unsafe_defer_rate": 0.30303030303030304,
+    "count": 3575,
+    "accepted": 2592,
+    "coverage": 0.725034965034965,
+    "selective_accuracy": 0.3557098765432099,
+    "selective_error": 0.6442901234567902,
+    "coverage_ci95": {
+      "low": 0.7101630818562971,
+      "high": 0.7394237519036427,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3375060647609256,
+      "high": 0.37434074411937446,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2592
+    },
+    "correctly_routed_fraction": 0.2579020979020979,
+    "wrongly_routed_fraction": 0.4671328671328671
+  },
+  {
+    "threshold": 0.67,
+    "utility": -0.4114219114219114,
+    "unsafe_defer_rate": 0.30303030303030304,
+    "count": 3575,
+    "accepted": 2567,
+    "coverage": 0.718041958041958,
+    "selective_accuracy": 0.358005453837164,
+    "selective_error": 0.641994546162836,
+    "coverage_ci95": {
+      "low": 0.7030644789179019,
+      "high": 0.7325513531714369,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.33968447138123753,
+      "high": 0.37675078467130424,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2567
+    },
+    "correctly_routed_fraction": 0.25706293706293704,
+    "wrongly_routed_fraction": 0.460979020979021
+  },
+  {
+    "threshold": 0.6799999999999999,
+    "utility": -0.3756643356643357,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2534,
+    "coverage": 0.7088111888111888,
+    "selective_accuracy": 0.35674822415153906,
+    "selective_error": 0.6432517758484609,
+    "coverage_ci95": {
+      "low": 0.6937010308141994,
+      "high": 0.7234730790699461,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.33832631624597737,
+      "high": 0.3756038043781202,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2534
+    },
+    "correctly_routed_fraction": 0.25286713286713286,
+    "wrongly_routed_fraction": 0.45594405594405596
+  },
+  {
+    "threshold": 0.69,
+    "utility": -0.36727272727272725,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2506,
+    "coverage": 0.700979020979021,
+    "selective_accuracy": 0.3583399840383081,
+    "selective_error": 0.641660015961692,
+    "coverage_ci95": {
+      "low": 0.6857621247052713,
+      "high": 0.7157644633078012,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3397958853927999,
+      "high": 0.377317720526512,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2506
+    },
+    "correctly_routed_fraction": 0.2511888111888112,
+    "wrongly_routed_fraction": 0.4497902097902098
+  },
+  {
+    "threshold": 0.7,
+    "utility": -0.36167832167832176,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2482,
+    "coverage": 0.6942657342657342,
+    "selective_accuracy": 0.3585817888799355,
+    "selective_error": 0.6414182111200645,
+    "coverage_ci95": {
+      "low": 0.6789615144133235,
+      "high": 0.709152911995972,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3399462489184781,
+      "high": 0.37765440597886396,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2482
+    },
+    "correctly_routed_fraction": 0.24895104895104894,
+    "wrongly_routed_fraction": 0.4453146853146853
+  },
+  {
+    "threshold": 0.71,
+    "utility": -0.35216783216783215,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2450,
+    "coverage": 0.6853146853146853,
+    "selective_accuracy": 0.3604081632653061,
+    "selective_error": 0.6395918367346939,
+    "coverage_ci95": {
+      "low": 0.6698998866453685,
+      "high": 0.7003316576255578,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34162893503016917,
+      "high": 0.37962445012995943,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2450
+    },
+    "correctly_routed_fraction": 0.246993006993007,
+    "wrongly_routed_fraction": 0.43832167832167834
+  },
+  {
+    "threshold": 0.72,
+    "utility": -0.3415384615384616,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2418,
+    "coverage": 0.6763636363636364,
+    "selective_accuracy": 0.3631100082712986,
+    "selective_error": 0.6368899917287014,
+    "coverage_ci95": {
+      "low": 0.6608448038759839,
+      "high": 0.6915038582565732,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34417336073667115,
+      "high": 0.3824809181431864,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2418
+    },
+    "correctly_routed_fraction": 0.2455944055944056,
+    "wrongly_routed_fraction": 0.4307692307692308
+  },
+  {
+    "threshold": 0.73,
+    "utility": -0.33552447552447545,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2393,
+    "coverage": 0.6693706293706294,
+    "selective_accuracy": 0.36356038445465944,
+    "selective_error": 0.6364396155453406,
+    "coverage_ci95": {
+      "low": 0.6537749808015625,
+      "high": 0.6846026796603937,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34452052057619204,
+      "high": 0.3830375965462928,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2393
+    },
+    "correctly_routed_fraction": 0.24335664335664337,
+    "wrongly_routed_fraction": 0.426013986013986
+  },
+  {
+    "threshold": 0.74,
+    "utility": -0.32671328671328675,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2368,
+    "coverage": 0.6623776223776224,
+    "selective_accuracy": 0.36613175675675674,
+    "selective_error": 0.6338682432432432,
+    "coverage_ci95": {
+      "low": 0.6467090002380291,
+      "high": 0.6776976585533259,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34695978523077536,
+      "high": 0.38573735704987616,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2368
+    },
+    "correctly_routed_fraction": 0.2425174825174825,
+    "wrongly_routed_fraction": 0.41986013986013987
+  },
+  {
+    "threshold": 0.75,
+    "utility": -0.3181818181818182,
+    "unsafe_defer_rate": 0.36363636363636365,
+    "count": 3575,
+    "accepted": 2341,
+    "coverage": 0.6548251748251748,
+    "selective_accuracy": 0.36821870995301154,
+    "selective_error": 0.6317812900469885,
+    "coverage_ci95": {
+      "low": 0.6390819885238148,
+      "high": 0.6702359884632909,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34891125774788645,
+      "high": 0.3879579460616063,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2341
+    },
+    "correctly_routed_fraction": 0.2411188811188811,
+    "wrongly_routed_fraction": 0.4137062937062937
+  },
+  {
+    "threshold": 0.76,
+    "utility": -0.2963170163170163,
+    "unsafe_defer_rate": 0.3939393939393939,
+    "count": 3575,
+    "accepted": 2313,
+    "coverage": 0.646993006993007,
+    "selective_accuracy": 0.3687851275399914,
+    "selective_error": 0.6312148724600086,
+    "coverage_ci95": {
+      "low": 0.6311770808360543,
+      "high": 0.6624933742799785,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.34935543493065474,
+      "high": 0.3886499440351672,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2313
+    },
+    "correctly_routed_fraction": 0.2386013986013986,
+    "wrongly_routed_fraction": 0.4083916083916084
+  },
+  {
+    "threshold": 0.77,
+    "utility": -0.28792540792540794,
+    "unsafe_defer_rate": 0.3939393939393939,
+    "count": 3575,
+    "accepted": 2281,
+    "coverage": 0.6380419580419581,
+    "selective_accuracy": 0.3700131521262604,
+    "selective_error": 0.6299868478737396,
+    "coverage_ci95": {
+      "low": 0.622148526837216,
+      "high": 0.6536390461404475,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3504337183427637,
+      "high": 0.3900296745501186,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2281
+    },
+    "correctly_routed_fraction": 0.23608391608391607,
+    "wrongly_routed_fraction": 0.40195804195804197
+  },
+  {
+    "threshold": 0.78,
+    "utility": -0.2614452214452214,
+    "unsafe_defer_rate": 0.42424242424242425,
+    "count": 3575,
+    "accepted": 2242,
+    "coverage": 0.6271328671328671,
+    "selective_accuracy": 0.37243532560214093,
+    "selective_error": 0.627564674397859,
+    "coverage_ci95": {
+      "low": 0.6111529535012203,
+      "high": 0.6428398568703055,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3526577083520453,
+      "high": 0.3926493355831215,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2242
+    },
+    "correctly_routed_fraction": 0.23356643356643356,
+    "wrongly_routed_fraction": 0.39356643356643356
+  },
+  {
+    "threshold": 0.79,
+    "utility": -0.25207459207459215,
+    "unsafe_defer_rate": 0.42424242424242425,
+    "count": 3575,
+    "accepted": 2217,
+    "coverage": 0.6201398601398601,
+    "selective_accuracy": 0.37573297248534054,
+    "selective_error": 0.6242670275146595,
+    "coverage_ci95": {
+      "low": 0.6041090479462412,
+      "high": 0.6359127607546837,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3558042373887158,
+      "high": 0.3960916046978279,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2217
+    },
+    "correctly_routed_fraction": 0.233006993006993,
+    "wrongly_routed_fraction": 0.38713286713286715
+  },
+  {
+    "threshold": 0.8,
+    "utility": -0.22503496503496498,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2182,
+    "coverage": 0.6103496503496504,
+    "selective_accuracy": 0.3794683776351971,
+    "selective_error": 0.620531622364803,
+    "coverage_ci95": {
+      "low": 0.594253451020672,
+      "high": 0.6262089553414117,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.35933640413128215,
+      "high": 0.40002400241723884,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2182
+    },
+    "correctly_routed_fraction": 0.2316083916083916,
+    "wrongly_routed_fraction": 0.37874125874125875
+  },
+  {
+    "threshold": 0.8099999999999999,
+    "utility": -0.21706293706293703,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2147,
+    "coverage": 0.6005594405594405,
+    "selective_accuracy": 0.3800652072659525,
+    "selective_error": 0.6199347927340475,
+    "coverage_ci95": {
+      "low": 0.5844046160597021,
+      "high": 0.6164983879635402,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3597645032717664,
+      "high": 0.40079432458234504,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2147
+    },
+    "correctly_routed_fraction": 0.22825174825174827,
+    "wrongly_routed_fraction": 0.3723076923076923
+  },
+  {
+    "threshold": 0.82,
+    "utility": -0.20643356643356645,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2115,
+    "coverage": 0.5916083916083916,
+    "selective_accuracy": 0.383451536643026,
+    "selective_error": 0.616548463356974,
+    "coverage_ci95": {
+      "low": 0.5754058101752245,
+      "high": 0.6076143117096485,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3629585495602058,
+      "high": 0.40436712837211386,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2115
+    },
+    "correctly_routed_fraction": 0.22685314685314686,
+    "wrongly_routed_fraction": 0.36475524475524473
+  },
+  {
+    "threshold": 0.83,
+    "utility": -0.1969230769230769,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2083,
+    "coverage": 0.5826573426573427,
+    "selective_accuracy": 0.38598175708113297,
+    "selective_error": 0.614018242918867,
+    "coverage_ci95": {
+      "low": 0.5664125244237437,
+      "high": 0.5987247153227602,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3653035238056133,
+      "high": 0.40707976003597296,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2083
+    },
+    "correctly_routed_fraction": 0.2248951048951049,
+    "wrongly_routed_fraction": 0.35776223776223776
+  },
+  {
+    "threshold": 0.84,
+    "utility": -0.18475524475524482,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2046,
+    "coverage": 0.5723076923076923,
+    "selective_accuracy": 0.39002932551319647,
+    "selective_error": 0.6099706744868035,
+    "coverage_ci95": {
+      "low": 0.5560208498931584,
+      "high": 0.5884393073808559,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3691194089185446,
+      "high": 0.4113514181965961,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2046
+    },
+    "correctly_routed_fraction": 0.2232167832167832,
+    "wrongly_routed_fraction": 0.3490909090909091
+  },
+  {
+    "threshold": 0.85,
+    "utility": -0.17398601398601396,
+    "unsafe_defer_rate": 0.45454545454545453,
+    "count": 3575,
+    "accepted": 2019,
+    "coverage": 0.5647552447552447,
+    "selective_accuracy": 0.3947498761763249,
+    "selective_error": 0.605250123823675,
+    "coverage_ci95": {
+      "low": 0.5484423075208721,
+      "high": 0.5809291679488932,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.37364802755284426,
+      "high": 0.4162514733958002,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 2019
+    },
+    "correctly_routed_fraction": 0.22293706293706295,
+    "wrongly_routed_fraction": 0.3418181818181818
+  },
+  {
+    "threshold": 0.86,
+    "utility": -0.1441491841491841,
+    "unsafe_defer_rate": 0.48484848484848486,
+    "count": 3575,
+    "accepted": 1980,
+    "coverage": 0.5538461538461539,
+    "selective_accuracy": 0.401010101010101,
+    "selective_error": 0.598989898989899,
+    "coverage_ci95": {
+      "low": 0.5375022792465628,
+      "high": 0.5700744336170648,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.37963431417523313,
+      "high": 0.42276925075831423,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1980
+    },
+    "correctly_routed_fraction": 0.2220979020979021,
+    "wrongly_routed_fraction": 0.33174825174825173
+  },
+  {
+    "threshold": 0.87,
+    "utility": -0.11668997668997672,
+    "unsafe_defer_rate": 0.5151515151515151,
+    "count": 3575,
+    "accepted": 1932,
+    "coverage": 0.5404195804195804,
+    "selective_accuracy": 0.40372670807453415,
+    "selective_error": 0.5962732919254659,
+    "coverage_ci95": {
+      "low": 0.5240485069050509,
+      "high": 0.5567038827510227,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.38206046699412327,
+      "high": 0.4257750361123031,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1932
+    },
+    "correctly_routed_fraction": 0.21818181818181817,
+    "wrongly_routed_fraction": 0.32223776223776224
+  },
+  {
+    "threshold": 0.88,
+    "utility": -0.1011655011655011,
+    "unsafe_defer_rate": 0.5151515151515151,
+    "count": 3575,
+    "accepted": 1887,
+    "coverage": 0.5278321678321678,
+    "selective_accuracy": 0.41017488076311603,
+    "selective_error": 0.589825119236884,
+    "coverage_ci95": {
+      "low": 0.511446421040142,
+      "high": 0.5441581656088498,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.38818656845958155,
+      "high": 0.4325281728961363,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1887
+    },
+    "correctly_routed_fraction": 0.2165034965034965,
+    "wrongly_routed_fraction": 0.3113286713286713
+  },
+  {
+    "threshold": 0.89,
+    "utility": -0.08466200466200463,
+    "unsafe_defer_rate": 0.5151515151515151,
+    "count": 3575,
+    "accepted": 1825,
+    "coverage": 0.5104895104895105,
+    "selective_accuracy": 0.4147945205479452,
+    "selective_error": 0.5852054794520548,
+    "coverage_ci95": {
+      "low": 0.49410060914861464,
+      "high": 0.5268558933572869,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.392392429666814,
+      "high": 0.43755455753647,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1825
+    },
+    "correctly_routed_fraction": 0.21174825174825174,
+    "wrongly_routed_fraction": 0.29874125874125873
+  },
+  {
+    "threshold": 0.9,
+    "utility": -0.03981351981351977,
+    "unsafe_defer_rate": 0.5757575757575758,
+    "count": 3575,
+    "accepted": 1765,
+    "coverage": 0.4937062937062937,
+    "selective_accuracy": 0.41813031161473085,
+    "selective_error": 0.5818696883852691,
+    "coverage_ci95": {
+      "low": 0.4773331021711521,
+      "high": 0.5100929963253071,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.3953209509408311,
+      "high": 0.4412952711864593,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1765
+    },
+    "correctly_routed_fraction": 0.20643356643356645,
+    "wrongly_routed_fraction": 0.2872727272727273
+  },
+  {
+    "threshold": 0.91,
+    "utility": -0.024428904428904386,
+    "unsafe_defer_rate": 0.5757575757575758,
+    "count": 3575,
+    "accepted": 1711,
+    "coverage": 0.4786013986013986,
+    "selective_accuracy": 0.423728813559322,
+    "selective_error": 0.576271186440678,
+    "coverage_ci95": {
+      "low": 0.462258116667824,
+      "high": 0.4949906182201371,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.400511021162531,
+      "high": 0.44728831990338225,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1711
+    },
+    "correctly_routed_fraction": 0.20279720279720279,
+    "wrongly_routed_fraction": 0.2758041958041958
+  },
+  {
+    "threshold": 0.92,
+    "utility": -0.0047086247086246535,
+    "unsafe_defer_rate": 0.5757575757575758,
+    "count": 3575,
+    "accepted": 1640,
+    "coverage": 0.45874125874125876,
+    "selective_accuracy": 0.43109756097560975,
+    "selective_error": 0.5689024390243902,
+    "coverage_ci95": {
+      "low": 0.44246010783297957,
+      "high": 0.4751109823104747,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.4073179997349745,
+      "high": 0.45519915556165946,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1640
+    },
+    "correctly_routed_fraction": 0.19776223776223775,
+    "wrongly_routed_fraction": 0.260979020979021
+  },
+  {
+    "threshold": 0.93,
+    "utility": 0.012354312354312336,
+    "unsafe_defer_rate": 0.5757575757575758,
+    "count": 3575,
+    "accepted": 1574,
+    "coverage": 0.4402797202797203,
+    "selective_accuracy": 0.4371029224904701,
+    "selective_error": 0.5628970775095299,
+    "coverage_ci95": {
+      "low": 0.42407972059393195,
+      "high": 0.45660792513913573,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.41278057107627547,
+      "high": 0.46173153602224853,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1574
+    },
+    "correctly_routed_fraction": 0.19244755244755246,
+    "wrongly_routed_fraction": 0.24783216783216783
+  },
+  {
+    "threshold": 0.94,
+    "utility": 0.041491841491841486,
+    "unsafe_defer_rate": 0.6060606060606061,
+    "count": 3575,
+    "accepted": 1522,
+    "coverage": 0.42573426573426576,
+    "selective_accuracy": 0.442838370565046,
+    "selective_error": 0.557161629434954,
+    "coverage_ci95": {
+      "low": 0.40961424748249636,
+      "high": 0.4420137147757213,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.41805850425499713,
+      "high": 0.4679060571388959,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1522
+    },
+    "correctly_routed_fraction": 0.18853146853146854,
+    "wrongly_routed_fraction": 0.23720279720279722
+  },
+  {
+    "threshold": 0.95,
+    "utility": 0.10303030303030303,
+    "unsafe_defer_rate": 0.696969696969697,
+    "count": 3575,
+    "accepted": 1465,
+    "coverage": 0.4097902097902098,
+    "selective_accuracy": 0.45051194539249145,
+    "selective_error": 0.5494880546075085,
+    "coverage_ci95": {
+      "low": 0.3937743252700449,
+      "high": 0.4259997531792024,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.4251966013128046,
+      "high": 0.47608614153922674,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1465
+    },
+    "correctly_routed_fraction": 0.18461538461538463,
+    "wrongly_routed_fraction": 0.22517482517482518
+  },
+  {
+    "threshold": 0.96,
+    "utility": 0.12638694638694636,
+    "unsafe_defer_rate": 0.696969696969697,
+    "count": 3575,
+    "accepted": 1380,
+    "coverage": 0.386013986013986,
+    "selective_accuracy": 0.4623188405797101,
+    "selective_error": 0.5376811594202898,
+    "coverage_ci95": {
+      "low": 0.37018597975647977,
+      "high": 0.4020866930127242,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.43615456029877403,
+      "high": 0.4886923220249941,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1380
+    },
+    "correctly_routed_fraction": 0.17846153846153845,
+    "wrongly_routed_fraction": 0.20755244755244756
+  },
+  {
+    "threshold": 0.97,
+    "utility": 0.15100233100233101,
+    "unsafe_defer_rate": 0.696969696969697,
+    "count": 3575,
+    "accepted": 1280,
+    "coverage": 0.35804195804195804,
+    "selective_accuracy": 0.47421875,
+    "selective_error": 0.52578125,
+    "coverage_ci95": {
+      "low": 0.34248645287768925,
+      "high": 0.3739022132091107,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.4469818458388495,
+      "high": 0.5016099374015625,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1280
+    },
+    "correctly_routed_fraction": 0.16979020979020978,
+    "wrongly_routed_fraction": 0.18825174825174826
+  },
+  {
+    "threshold": 0.98,
+    "utility": 0.19902097902097907,
+    "unsafe_defer_rate": 0.7272727272727273,
+    "count": 3575,
+    "accepted": 1139,
+    "coverage": 0.3186013986013986,
+    "selective_accuracy": 0.4916593503072871,
+    "selective_error": 0.5083406496927129,
+    "coverage_ci95": {
+      "low": 0.30352970806827856,
+      "high": 0.33406250859633185,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.46270294871659823,
+      "high": 0.5206718231265529,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 1139
+    },
+    "correctly_routed_fraction": 0.15664335664335666,
+    "wrongly_routed_fraction": 0.16195804195804195
+  },
+  {
+    "threshold": 0.99,
+    "utility": 0.3095571095571096,
+    "unsafe_defer_rate": 0.8484848484848485,
+    "count": 3575,
+    "accepted": 948,
+    "coverage": 0.26517482517482516,
+    "selective_accuracy": 0.5337552742616034,
+    "selective_error": 0.46624472573839665,
+    "coverage_ci95": {
+      "low": 0.250962463739491,
+      "high": 0.27989130016172786,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": {
+      "low": 0.5019271752268947,
+      "high": 0.5653109130144963,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 948
+    },
+    "correctly_routed_fraction": 0.14153846153846153,
+    "wrongly_routed_fraction": 0.12363636363636364
+  },
+  {
+    "threshold": 1.000001,
+    "utility": 0.5,
+    "unsafe_defer_rate": 1.0,
+    "count": 3575,
+    "accepted": 0,
+    "coverage": 0.0,
+    "selective_accuracy": null,
+    "selective_error": null,
+    "coverage_ci95": {
+      "low": 0.0,
+      "high": 0.0010733805520292505,
+      "method": "Wilson binomial interval; assumes independent examples",
+      "count": 3575
+    },
+    "selective_accuracy_ci95": null,
+    "correctly_routed_fraction": 0.0,
+    "wrongly_routed_fraction": 0.0
+  }
+]

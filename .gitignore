@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+_private/
+data/raw/
+artifacts/
+.cache/
+.env
+.env.*
+logs/
+
+publish/
+reproduction_manifest.json

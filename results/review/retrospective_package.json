@@ -1,0 +1,11 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "notebook_sha256": "40d7652112044eaf06f6c38f90b6f718015668dcbd3f555b2c302063ff1c4d06",
+  "public_document_sha256": "4e4cacdf4f1076ab6ef087c0b83d712196b1ab49ceba0becdddda1c6c4d0b246",
+  "exact_two_file_allowlist": true,
+  "executed_arithmetic_cells": 2,
+  "arithmetic_and_saved_outputs_verified": true,
+  "private_artifacts_embedded": false,
+  "fresh_model_experiment_claimed": false,
+  "publication_package_review_passed": true
+}

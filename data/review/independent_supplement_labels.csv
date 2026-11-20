@@ -1,0 +1,31 @@
+example_id,kind,label,expected_action,confidence,rationale
+challenge_test_271,out_of_domain,__abstain__,abstain,high,"Warranty product registration, not customer-account creation."
+challenge_test_281,out_of_domain,__abstain__,abstain,high,Rewards-tier qualification is outside the intent ontology.
+challenge_test_257,out_of_domain,__abstain__,abstain,high,Product instruction-manual lookup is unsupported.
+challenge_test_243,out_of_domain,__abstain__,abstain,high,Dock display-performance compatibility is unsupported.
+challenge_test_270,out_of_domain,__abstain__,abstain,high,Repair coverage under extended warranty is not refund policy.
+challenge_test_262,out_of_domain,__abstain__,abstain,high,Physical demonstration-unit availability is unsupported.
+challenge_test_251,out_of_domain,__abstain__,abstain,high,Product material properties are unsupported.
+challenge_test_260,out_of_domain,__abstain__,abstain,high,Stock availability inquiry does not initiate an order.
+challenge_test_254,out_of_domain,__abstain__,abstain,high,Product-device Bluetooth compatibility is unsupported.
+challenge_test_255,out_of_domain,__abstain__,abstain,high,Product maximum-load specification is unsupported.
+challenge_test_269,out_of_domain,__abstain__,abstain,high,Repair-centre location is different from store customer-service contact.
+challenge_test_284,out_of_domain,__abstain__,abstain,high,Rewards redemption for external benefits is unsupported.
+challenge_test_268,out_of_domain,__abstain__,abstain,high,Manufacturer warranty duration is not refund eligibility.
+challenge_test_265,out_of_domain,__abstain__,abstain,high,Product manufacturing lifecycle is unsupported.
+challenge_test_258,out_of_domain,__abstain__,abstain,high,Replacement component compatibility is unsupported.
+challenge_test_250,out_of_domain,__abstain__,abstain,high,Product operating capability is unsupported.
+challenge_test_282,out_of_domain,__abstain__,abstain,high,Loyalty earning rules are unsupported.
+challenge_test_275,out_of_domain,__abstain__,abstain,high,Product maintenance instructions are unsupported.
+challenge_test_244,out_of_domain,__abstain__,abstain,high,Computer peripheral compatibility is unsupported.
+challenge_test_248,out_of_domain,__abstain__,abstain,high,Product memory upgrade capability is unsupported.
+challenge_test_280,out_of_domain,__abstain__,abstain,high,Rewards-points transfer is not customer-account switching.
+challenge_test_261,out_of_domain,__abstain__,abstain,high,Inventory replenishment timing is not shipping duration.
+challenge_test_264,out_of_domain,__abstain__,abstain,high,Branch inventory lookup is unsupported.
+challenge_test_278,out_of_domain,__abstain__,abstain,high,Rewards balance inquiry is outside account-edit intent.
+challenge_test_252,out_of_domain,__abstain__,abstain,high,Product heat tolerance is unsupported.
+challenge_test_279,out_of_domain,__abstain__,abstain,high,Loyalty-point expiry is unsupported.
+challenge_test_274,out_of_domain,__abstain__,abstain,high,Warranty service coverage is not refund policy.
+challenge_test_245,out_of_domain,__abstain__,abstain,high,Product eSIM capability is unsupported.
+challenge_test_263,out_of_domain,__abstain__,abstain,high,Spare-component availability is unsupported.
+challenge_test_256,out_of_domain,__abstain__,abstain,high,Product age suitability is unsupported.

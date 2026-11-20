@@ -1,0 +1,237 @@
+{
+  "scope": "development-only adapter sanity check, first two validation rows and first six constrained-prediction errors",
+  "examples": [
+    {
+      "example_id": "bitext_0018b98aa869644dac72",
+      "text": "I do not knowwhat to do to give a quick look at bill #12588",
+      "true_label": "check_invoice",
+      "constrained_prediction": "check_invoice",
+      "top_next_tokens": [
+        {
+          "token": "E",
+          "probability": 0.9583019018173218
+        },
+        {
+          "token": "F",
+          "probability": 0.01244616974145174
+        },
+        {
+          "token": "H",
+          "probability": 0.010158267803490162
+        },
+        {
+          "token": "B",
+          "probability": 0.01000077836215496
+        },
+        {
+          "token": "C",
+          "probability": 0.003916360903531313
+        }
+      ],
+      "unconstrained_generation": "E"
+    },
+    {
+      "example_id": "bitext_002bc33f7e8ca7fdcc27",
+      "text": "I want assistance to swap some items of order {{Order Number}}",
+      "true_label": "change_order",
+      "constrained_prediction": "change_order",
+      "top_next_tokens": [
+        {
+          "token": "B",
+          "probability": 0.9489202499389648
+        },
+        {
+          "token": "H",
+          "probability": 0.017931783571839333
+        },
+        {
+          "token": "A",
+          "probability": 0.01607394777238369
+        },
+        {
+          "token": "C",
+          "probability": 0.011759951710700989
+        },
+        {
+          "token": "E",
+          "probability": 0.0027072944212704897
+        }
+      ],
+      "unconstrained_generation": "B"
+    },
+    {
+      "example_id": "bitext_003e0d13f738a7b5ff6c",
+      "text": "is it possible to retrieve my account PIN?",
+      "true_label": "recover_password",
+      "constrained_prediction": "complaint",
+      "top_next_tokens": [
+        {
+          "token": "H",
+          "probability": 0.992455244064331
+        },
+        {
+          "token": "J",
+          "probability": 0.0026599490083754063
+        },
+        {
+          "token": "I",
+          "probability": 0.0013799633597955108
+        },
+        {
+          "token": "E",
+          "probability": 0.0012369912583380938
+        },
+        {
+          "token": "F",
+          "probability": 0.0005843132385052741
+        }
+      ],
+      "unconstrained_generation": "H"
+    },
+    {
+      "example_id": "bitext_0040734779bb275b2ed0",
+      "text": "i have to see what hours i can call customer support",
+      "true_label": "contact_customer_service",
+      "constrained_prediction": "check_invoice",
+      "top_next_tokens": [
+        {
+          "token": "E",
+          "probability": 0.448621541261673
+        },
+        {
+          "token": "H",
+          "probability": 0.43481889367103577
+        },
+        {
+          "token": "I",
+          "probability": 0.06879834085702896
+        },
+        {
+          "token": "J",
+          "probability": 0.028234781697392464
+        },
+        {
+          "token": "F",
+          "probability": 0.011770007200539112
+        }
+      ],
+      "unconstrained_generation": "E"
+    },
+    {
+      "example_id": "bitext_0047eaa0440ad9159f67",
+      "text": "my card was declined i wanna inform of troubles with payment",
+      "true_label": "payment_issue",
+      "constrained_prediction": "check_payment_methods",
+      "top_next_tokens": [
+        {
+          "token": "F",
+          "probability": 0.5144787430763245
+        },
+        {
+          "token": "H",
+          "probability": 0.13847006857395172
+        },
+        {
+          "token": "B",
+          "probability": 0.09081088751554489
+        },
+        {
+          "token": "D",
+          "probability": 0.06854765862226486
+        },
+        {
+          "token": "S",
+          "probability": 0.04157625883817673
+        }
+      ],
+      "unconstrained_generation": "F"
+    },
+    {
+      "example_id": "bitext_00553f9afc7ea6a499ad",
+      "text": "want help to get my invoices from {{Person Name}}",
+      "true_label": "get_invoice",
+      "constrained_prediction": "check_invoice",
+      "top_next_tokens": [
+        {
+          "token": "E",
+          "probability": 0.9978043437004089
+        },
+        {
+          "token": "B",
+          "probability": 0.0013874010182917118
+        },
+        {
+          "token": "F",
+          "probability": 0.00033472606446594
+        },
+        {
+          "token": "H",
+          "probability": 0.00020621874136850238
+        },
+        {
+          "token": "C",
+          "probability": 0.00017096134251914918
+        }
+      ],
+      "unconstrained_generation": "E"
+    },
+    {
+      "example_id": "bitext_0072f6e3001b642ede44",
+      "text": "I never make use of my {{Account Category}} account, help canceling it",
+      "true_label": "delete_account",
+      "constrained_prediction": "complaint",
+      "top_next_tokens": [
+        {
+          "token": "H",
+          "probability": 0.8541107177734375
+        },
+        {
+          "token": "A",
+          "probability": 0.13513994216918945
+        },
+        {
+          "token": "E",
+          "probability": 0.007274942006915808
+        },
+        {
+          "token": "B",
+          "probability": 0.0015980926109477878
+        },
+        {
+          "token": "I",
+          "probability": 0.0004507627454586327
+        }
+      ],
+      "unconstrained_generation": "H"
+    },
+    {
+      "example_id": "bitext_00857b3755612c604ac5",
+      "text": "I do not know how I can send feedback about your services",
+      "true_label": "review",
+      "constrained_prediction": "complaint",
+      "top_next_tokens": [
+        {
+          "token": "H",
+          "probability": 0.9946951270103455
+        },
+        {
+          "token": "F",
+          "probability": 0.003531812923029065
+        },
+        {
+          "token": "E",
+          "probability": 0.0006137369782663882
+        },
+        {
+          "token": "Z",
+          "probability": 0.00026812186115421355
+        },
+        {
+          "token": "0",
+          "probability": 0.00017311247938778251
+        }
+      ],
+      "unconstrained_generation": "H"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scope": "development only; first validation example of each of27labels",
+  "batch_size": 8,
+  "dtype": "float16",
+  "examples": 27,
+  "argmax_agreement": 1.0,
+  "max_absolute_probability_difference": 0.00963681936264038,
+  "mean_absolute_probability_difference": 0.000276801671134308,
+  "examples_changed": [],
+  "interpretation": "FP16 padded-batch arithmetic can differ slightly; exact bitwise equality is not promised."
+}

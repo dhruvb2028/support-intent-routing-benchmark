@@ -1,0 +1,15 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "review_type": "AI blind annotation, not human review",
+  "count": 60,
+  "created_utc": "2026-11-20T20:27:50.633035+00:00",
+  "inputs_seen": [
+    "data/review_blind.csv",
+    "data/ontology.json"
+  ],
+  "author_label_files_seen_before_submission": false,
+  "blind_input_sha256": "83d3e6242008eb73b7ff2335c97e5c17b3a81154fe91837e5d62b10056835227",
+  "ontology_sha256": "e17b7926d2ee8e309b67fae5c789ed8cc4b9f021b28e26edaca549f3f1b08591",
+  "independent_labels_sha256": "1b68ea29ee62a391e9f9b70b43bff3cbbb421ed99bb09f84e277e27f77a94d24",
+  "note": "Labels assigned from texts and stated ontology before seeing author labels. No model predictions or outcomes were consulted."
+}

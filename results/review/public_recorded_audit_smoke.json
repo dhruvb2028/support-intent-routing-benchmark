@@ -1,0 +1,14 @@
+{
+  "reviewer": "independent Codex AI agent",
+  "scope": "Isolated copy of public result/source assets with no model artifacts; not a Git checkout",
+  "strict_mode_refuses_missing_artifacts": true,
+  "explicit_recorded_mode_reconstructs_all_metrics": true,
+  "missing_model_hashes_not_claimed_verified": true,
+  "models_reconstructed": [
+    "majority",
+    "tfidf",
+    "minilm",
+    "qwen"
+  ],
+  "smoke_passed": true
+}

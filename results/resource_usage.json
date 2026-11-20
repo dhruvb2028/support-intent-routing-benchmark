@@ -1,0 +1,139 @@
+{
+  "purpose": "Inference-only operational probe after selection freeze; no tuning",
+  "frozen_selection_sha256": "5dd505704228aff925c118927ff43358180c61cfe6e3d8e575b5de94ee406c0c",
+  "validation_sha256": "32dbd11d6f896558cb23007ffd7435bd2815d8d5a16d4590165cdeb4680e430b",
+  "script_sha256": "f88e10a587d554f6986a4efe3e1beec9643092d29e5690dfa706133cb699c11d",
+  "definitions": {
+    "cold": "Fresh process and unloaded model; local model assets already cached, OS filesystem cache may be warm.",
+    "model_timers": "CUDA context initialized first; joblib load separate from first request which includes lazy encoder/LLM weight loading.",
+    "process_timer": "Interpreter startup, imports, GPU context, model load and first request to first result; excludes process shutdown.",
+    "memory": "PeakRSS sampled every10ms from baseline after common imports; may miss shorter peaks. CUDA values are PyTorch allocator peaks, not total physical GPU use.",
+    "limits": "One input and one cold run per model; descriptive operational probe, not a latency distribution or production capacity/cost estimate."
+  },
+  "models": {
+    "majority": {
+      "model": "majority",
+      "device": "cpu",
+      "validation_example_id": "bitext_0018b98aa869644dac72",
+      "input_characters": 59,
+      "artifact_deserialization_ms": 25.233500000467757,
+      "first_request_ms_including_lazy_weights": 17.788599998311838,
+      "model_load_plus_first_request_ms": 43.022099998779595,
+      "single_warm_repeat_ms": 0.7188000017777085,
+      "fresh_process_to_first_result_ms": 3083.171599999332,
+      "baseline_rss_mib": 582.796875,
+      "peak_sampled_rss_mib": 585.19921875,
+      "peak_rss_increment_mib": 2.40234375,
+      "rss_sample_interval_ms": 10,
+      "cuda_peak_allocated_mib": null,
+      "cuda_peak_reserved_mib": null,
+      "probe_prediction": {
+        "action": "human_review",
+        "suggested_intent": "complaint",
+        "confidence": 0.04184401414783286,
+        "threshold": 0.1,
+        "scores_are_uncalibrated": true,
+        "top_candidates": {
+          "complaint": 0.04184401414783286,
+          "payment_issue": 0.041604220370481386,
+          "review": 0.041604220370481386
+        },
+        "reason": "Below development threshold"
+      },
+      "torch": "2.9.1+cu128"
+    },
+    "tfidf": {
+      "model": "tfidf",
+      "device": "cpu",
+      "validation_example_id": "bitext_0018b98aa869644dac72",
+      "input_characters": 59,
+      "artifact_deserialization_ms": 144.65600000039558,
+      "first_request_ms_including_lazy_weights": 3.5293999972054735,
+      "model_load_plus_first_request_ms": 148.18539999760105,
+      "single_warm_repeat_ms": 2.2867000006954186,
+      "fresh_process_to_first_result_ms": 3263.443299998471,
+      "baseline_rss_mib": 584.49609375,
+      "peak_sampled_rss_mib": 598.078125,
+      "peak_rss_increment_mib": 13.58203125,
+      "rss_sample_interval_ms": 10,
+      "cuda_peak_allocated_mib": null,
+      "cuda_peak_reserved_mib": null,
+      "probe_prediction": {
+        "action": "route",
+        "suggested_intent": "check_invoice",
+        "confidence": 0.9750129582350173,
+        "threshold": 0.89,
+        "scores_are_uncalibrated": true,
+        "top_candidates": {
+          "check_invoice": 0.9750129582350173,
+          "get_invoice": 0.007123702665115498,
+          "contact_human_agent": 0.0019510422970919173
+        },
+        "reason": "Above development threshold"
+      },
+      "torch": "2.9.1+cu128"
+    },
+    "minilm": {
+      "model": "minilm",
+      "device": "cuda",
+      "validation_example_id": "bitext_0018b98aa869644dac72",
+      "input_characters": 59,
+      "artifact_deserialization_ms": 79.50949999940349,
+      "first_request_ms_including_lazy_weights": 5277.640899999824,
+      "model_load_plus_first_request_ms": 5357.150399999227,
+      "single_warm_repeat_ms": 7.371600000624312,
+      "fresh_process_to_first_result_ms": 9321.131900000182,
+      "baseline_rss_mib": 697.59765625,
+      "peak_sampled_rss_mib": 1247.3203125,
+      "peak_rss_increment_mib": 549.72265625,
+      "rss_sample_interval_ms": 10,
+      "cuda_peak_allocated_mib": 96.11669921875,
+      "cuda_peak_reserved_mib": 106.0,
+      "probe_prediction": {
+        "action": "route",
+        "suggested_intent": "check_invoice",
+        "confidence": 0.9970288955652535,
+        "threshold": 0.89,
+        "scores_are_uncalibrated": true,
+        "top_candidates": {
+          "check_invoice": 0.9970288955652535,
+          "get_invoice": 0.0007481935800467567,
+          "track_order": 0.00039938429933841996
+        },
+        "reason": "Above development threshold"
+      },
+      "torch": "2.9.1+cu128"
+    },
+    "qwen": {
+      "model": "qwen",
+      "device": "cuda",
+      "validation_example_id": "bitext_0018b98aa869644dac72",
+      "input_characters": 59,
+      "artifact_deserialization_ms": 56.03989999872283,
+      "first_request_ms_including_lazy_weights": 8474.504199999501,
+      "model_load_plus_first_request_ms": 8530.544099998224,
+      "single_warm_repeat_ms": 51.920800000516465,
+      "fresh_process_to_first_result_ms": 11462.026099998184,
+      "baseline_rss_mib": 697.6796875,
+      "peak_sampled_rss_mib": 6715.5703125,
+      "peak_rss_increment_mib": 6017.890625,
+      "rss_sample_interval_ms": 10,
+      "cuda_peak_allocated_mib": 2971.0068359375,
+      "cuda_peak_reserved_mib": 3160.0,
+      "probe_prediction": {
+        "action": "human_review",
+        "suggested_intent": "check_invoice",
+        "confidence": 0.9583376049995422,
+        "threshold": 1.000001,
+        "scores_are_uncalibrated": true,
+        "top_candidates": {
+          "check_invoice": 0.9583376049995422,
+          "check_payment_methods": 0.012446632608771324,
+          "complaint": 0.010158645920455456
+        },
+        "reason": "Below development threshold"
+      },
+      "torch": "2.9.1+cu128"
+    }
+  }
+}
