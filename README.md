@@ -4,7 +4,7 @@
 
 This portfolio compares a simple prior, a lexical classifier, pretrained embeddings and a fixed instruction-model setup. It includes pinned data, duplicate audits, validation-only selection, final predictions, failure cases, resource measurements and an executed notebook that actually reproduces the TF-IDF model with frozen settings. It was built and independently reviewed with AI-agent assistance; it is not a claim of unaided authorship or production readiness.
 
-[Audited Kaggle dataset](https://www.kaggle.com/datasets/dhruvb2028/support-intent-routing-audited-evaluation) | [Executed benchmark notebook](notebooks/support-routing-benchmark.ipynb) | [Data report](docs/data-report.md) | [Independent review](docs/validation-report.md)
+[Live routing demo](https://huggingface.co/spaces/dhruvb2028/support-intent-router) | [Audited Kaggle dataset](https://www.kaggle.com/datasets/dhruvb2028/support-intent-routing-audited-evaluation) | [Executed benchmark notebook](notebooks/support-routing-benchmark.ipynb) | [Data report](docs/data-report.md) | [Independent review](docs/validation-report.md)
 
 ## Results and their limits
 
